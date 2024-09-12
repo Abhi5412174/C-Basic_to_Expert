@@ -9,7 +9,6 @@ using namespace std;
 
 int main()
 {
-
     char b;
     cout << sizeof(b) << endl;
     bool d;
@@ -26,4 +25,6 @@ int main()
     cout << sizeof(g) << endl;
     long double h;
     cout << sizeof(h) << endl;
+
+    return 0;
 }
