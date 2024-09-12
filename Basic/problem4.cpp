@@ -15,4 +15,6 @@ int main()
 
     cout << "\nSum of " << a << " and " << b << " is: " << addition;
     cout << "\nDifference of " << a << " and " << b << " is: " << difference;
+
+    return 0;
 }

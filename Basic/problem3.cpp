@@ -16,4 +16,6 @@ int main()
             "\n\n\t\t AND"     
             "\n\n\t /FRO/"
          << endl;
+    
+    return 0;
 }
